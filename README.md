@@ -16,21 +16,20 @@ React, Firebase, FireStore, Zustand
 
 
 ### Signup Page
-![App Screenshot](https://res.cloudinary.com/ddavdy2aa/image/upload/v1744915165/FarmAi/mnfic6mmqwpvexiiinbe.png)
+![App Screenshot](https://github.com/manirajyadav-1/FarmAI/blob/main/images/signup.png)
 
 ### Login Page
-![App Screenshot](https://res.cloudinary.com/ddavdy2aa/image/upload/v1744915166/FarmAi/zv0cipnhd3j7zfjaxgpq.png)
+![App Screenshot](https://github.com/manirajyadav-1/FarmAI/blob/main/images/login.png)
 
 ### Home Section
-![App Screenshot](https://res.cloudinary.com/ddavdy2aa/image/upload/v1744915165/FarmAi/w9s1ecyynstchzgfiayg.png)
-
-![App Screenshot](https://res.cloudinary.com/ddavdy2aa/image/upload/v1744915165/FarmAi/lsx9fi7anqbsc1lkhu9p.png)
+![App Screenshot](https://github.com/manirajyadav-1/FarmAI/blob/main/images/home1.png)
+![App Screenshot](https://github.com/manirajyadav-1/FarmAI/blob/main/images/home2.png)
 
 ### Saved History
-![App Screenshot](https://res.cloudinary.com/ddavdy2aa/image/upload/v1744915164/FarmAi/pzhwo11ij1zjmdmq5dad.png)
+![App Screenshot](https://github.com/manirajyadav-1/FarmAI/blob/main/images/history.png)
  
 ### Chatbot
-![App Screenshot](https://res.cloudinary.com/ddavdy2aa/image/upload/v1744915164/FarmAi/swgrm2cka3uk4ddgebes.png)
+![App Screenshot](https://github.com/manirajyadav-1/FarmAI/blob/main/images/chatbot.png)
 
 
 
