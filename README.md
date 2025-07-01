@@ -5,7 +5,6 @@ FarmAI is a fully responsive web application designed to assist farmers and agri
 
 ## Tech Stack
 
-React, Firebase, FireStore, Zustand
 
 ![Logo](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg )
 ![Logo](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
