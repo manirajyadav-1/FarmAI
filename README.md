@@ -41,7 +41,7 @@ SmartAgri is a fully responsive web application designed to assist farmers and a
 Clone the project
 
 ```bash
-  git clone https://github.com/manirajyadav-1/FarmAI.git
+  git clone https://github.com/manirajyadav-1/SmartAgri.git
 ```
 
 Start the Backend Services
