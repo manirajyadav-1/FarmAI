@@ -1,7 +1,7 @@
 
-# FarmAI: Crop Disease Detection and Pesticide Management
+# SmartAgri: Crop Disease Detection and Pesticide Management
 
-FarmAI is a fully responsive web application designed to assist farmers and agriculturists in identifying crop diseases and receiving AI-powered guidance on pesticide management. Users can upload images of affected crops to detect potential diseases using an AI image model, and receive treatment recommendations generated through advanced language models like Gemini and ChatGPT.
+SmartAgri is a fully responsive web application designed to assist farmers and agriculturists in identifying crop diseases and receiving AI-powered guidance on pesticide management. Users can upload images of affected crops to detect potential diseases using an AI image model, and receive treatment recommendations generated through advanced language models like Gemini and ChatGPT.
 
 ## Tech Stack
 
